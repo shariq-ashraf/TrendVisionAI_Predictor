@@ -36,6 +36,7 @@ The goal is to help businesses optimize marketing strategies, improve inventory 
 Dataset Name: Customer Details
 
 Features:
+
 ✔ Product Category – Category of the purchased product (e.g., Bikes, Clothes, Accessories)
 
 ✔ Customer Segment – Customer type (Frequent, Occasional, One-time)
